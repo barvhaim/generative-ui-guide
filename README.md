@@ -4,6 +4,25 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Why Generative UI Matters](#why-generative-ui-matters)
+- [Key Patterns and Specifications](#key-patterns-and-specifications)
+  - [1. Static Generative UI (AG-UI Pattern)](#1-static-generative-ui-ag-ui-pattern)
+  - [2. Declarative Generative UI (A2UI and Open-JSON-UI)](#2-declarative-generative-ui-a2ui-and-open-json-ui)
+  - [3. Open-Ended Generative UI (MCP-UI)](#3-open-ended-generative-ui-mcp-ui)
+- [Comparison Table](#comparison-table)
+- [System Components and Workflow](#system-components-and-workflow)
+- [Examples and Case Studies](#examples-and-case-studies)
+- [Getting Started: Step-by-Step Guide](#getting-started-step-by-step-guide)
+- [Best Practices](#best-practices)
+- [Challenges and Considerations](#challenges-and-considerations)
+- [Resources and Further Reading](#resources-and-further-reading)
+- [Conclusion](#conclusion)
+
+
+
 ## Introduction
 
 Generative UI is an emerging paradigm in which AI systems not only power the logic behind an application but also generate the user interface itself in real time. 
